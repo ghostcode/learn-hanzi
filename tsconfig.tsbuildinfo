@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/charactercard.tsx","./src/components/hanziwritercard.tsx","./src/components/navbar.tsx","./src/components/searchbar.tsx","./src/data/hanzi.ts","./src/data/types.ts","./src/pages/categorypage.tsx","./src/pages/detailpage.tsx","./src/pages/homepage.tsx","./src/pages/searchpage.tsx"],"errors":true,"version":"5.9.3"}
